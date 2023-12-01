@@ -16,5 +16,10 @@ namespace PrimeraPantallaMindField
         {
             InitializeComponent();
         }
+
+        private void dgPacientes_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
